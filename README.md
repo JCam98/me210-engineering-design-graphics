@@ -1,2 +1,6 @@
-# me210-engineering-design-graphics
-Academic coursework repository containing Reverse Engineering Design project for ME 210: Engineering Design Graphics.
+# ME 210 - Engineering Design Graphics
+
+## Description
+This is an academic coursework repository containing a reverse engineering project for the course, ME 210: Engineering Design Graphics. 
+
+
